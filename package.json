@@ -1,0 +1,14 @@
+{
+   "devDependencies": {
+      "awesome-lint": "*"
+   },
+   "scripts": {
+      "test": "awesome-lint",
+      "toc": "doctoc README.md",
+      "prepare": "husky install"
+   },
+   "dependencies": {
+      "doctoc": "^2.2.1",
+      "husky": "^8.0.2"
+   }
+}
