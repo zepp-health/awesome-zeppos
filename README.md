@@ -8,19 +8,17 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Awesome Zepp OS ](#awesome-zepp-os-)
-  - [Contents](#contents)
-  - [Introduction](#introduction)
-    - [Overview](#overview)
-    - [First Steps](#first-steps)
-    - [Official Resources](#official-resources)
-  - [Community](#community)
-    - [Chat](#chat)
-    - [Questions](#questions)
-    - [Social Media](#social-media)
-  - [Libraries](#libraries)
-    - [lib](#lib)
-    - [tool](#tool)
+- [Introduction](#introduction)
+  - [Overview](#overview)
+  - [First Steps](#first-steps)
+  - [Official Resources](#official-resources)
+- [Community](#community)
+  - [Chat](#chat)
+  - [Questions](#questions)
+  - [Social Media](#social-media)
+- [Libraries](#libraries)
+  - [lib](#lib)
+  - [tool](#tool)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
