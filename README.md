@@ -58,6 +58,7 @@
 ### lib
 - [MessageBuilder](https://github.com/zepp-health/zeppos-samples/blob/main/application/2.0/todo-list/shared/message.js) - Communication library based on Bluetooth. It sends message between Zepp OS device and Zepp App. And it includes [side service part](https://github.com/zepp-health/zeppos-samples/blob/main/application/2.0/todo-list/shared/message-side.js).
 - [zeppos-device-types-v1](https://github.com/tytydraco/zeppos-device-types-v1) - third part typings lib.
+- [zapp-framework](https://github.com/j-piasecki/zapp-framework) - Declarative framework for making ZeppOS apps with syntax inspired by Jetpack Compose and some React Native sprinkled in.
 
 ### tool
 - [zepp-ts](https://github.com/tytydraco/zepp-ts) - Build tool that use typescript to develop zeppos-app.
