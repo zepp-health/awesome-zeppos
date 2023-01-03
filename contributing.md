@@ -21,6 +21,6 @@ You'll need a [GitHub account](https://github.com/join)!
 1. Access this list's GitHub page: https://github.com/zepp-health/awesome-zeppos
 2. Click on the `README.md` file.
 3. Now click on the edit icon.
-4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
+4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github).
 5. Say why you're proposing the changes, and then click on "Propose file change".
-6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
+6. Submit the [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)!
