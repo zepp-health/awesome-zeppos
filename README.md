@@ -8,17 +8,19 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Introduction](#introduction)
-  - [Overview](#overview)
-  - [First Steps](#first-steps)
-  - [Official Resources](#official-resources)
-- [Community](#community)
-  - [Chat](#chat)
-  - [Questions](#questions)
-  - [Social Media](#social-media)
-- [Libraries](#libraries)
-  - [lib](#lib)
-  - [tool](#tool)
+- [Awesome Zepp OS ](#awesome-zepp-os-)
+  - [Contents](#contents)
+  - [Introduction](#introduction)
+    - [Overview](#overview)
+    - [First Steps](#first-steps)
+    - [Official Resources](#official-resources)
+  - [Community](#community)
+    - [Chat](#chat)
+    - [Questions](#questions)
+    - [Social Media](#social-media)
+  - [Libraries](#libraries)
+    - [lib](#lib)
+    - [tool](#tool)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -57,7 +59,7 @@
 
 ### lib
 - [MessageBuilder](https://github.com/zepp-health/zeppos-samples/blob/main/application/2.0/todo-list/shared/message.js) - Communication library based on Bluetooth. It sends message between Zepp OS device and Zepp App. And it includes [side service part](https://github.com/zepp-health/zeppos-samples/blob/main/application/2.0/todo-list/shared/message-side.js).
-- [zeppos-device-types-v1](https://github.com/tytydraco/zeppos-device-types-v1) - third part typings lib.
+- [zeppos-device-types-v1](https://github.com/tytydraco/zeppos-device-types-v1) - Third part typings lib.
 - [zapp-framework](https://github.com/j-piasecki/zapp-framework) - Declarative framework for making ZeppOS apps with syntax inspired by Jetpack Compose and some React Native sprinkled in.
 
 ### tool
