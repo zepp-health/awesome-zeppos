@@ -17,8 +17,9 @@
   - [Questions](#questions)
   - [Social Media](#social-media)
 - [Libraries](#libraries)
-  - [lib](#lib)
-  - [tool](#tool)
+  - [Lib](#lib)
+  - [Tool](#tool)
+- [Examples](#examples)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -55,11 +56,16 @@
 
 ## Libraries
 
-### lib
+### Lib
 - [MessageBuilder](https://github.com/zepp-health/zeppos-samples/blob/main/application/2.0/todo-list/shared/message.js) - Communication library based on Bluetooth. It sends message between Zepp OS device and Zepp App. And it includes [side service part](https://github.com/zepp-health/zeppos-samples/blob/main/application/2.0/todo-list/shared/message-side.js).
 - [zeppos-device-types-v1](https://github.com/tytydraco/zeppos-device-types-v1) - Third part typings lib.
 - [zapp-framework](https://github.com/j-piasecki/zapp-framework) - Declarative framework for making ZeppOS apps with syntax inspired by Jetpack Compose and some React Native sprinkled in.
 
-### tool
+### Tool
 - [zepp-ts](https://github.com/tytydraco/zepp-ts) - Build tool that use typescript to develop zeppos-app.
 
+## Examples
+
+- [Official Examples](https://docs.zepp.com/docs/samples/) - Some official examples.
+- [txtview](https://github.com/fwz233/txtview) by [@fwz233](https://github.com/fwz233)
+- [Anynews](https://github.com/fwz233/Anynews) by [@fwz233](https://github.com/fwz233)
