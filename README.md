@@ -20,6 +20,8 @@
   - [Lib](#lib)
   - [Tool](#tool)
 - [App](#app)
+  - [Reading](#reading)
+  - [Music](#music)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -66,5 +68,11 @@
 
 ## App
 
+### Reading
+
 - [txtview](https://github.com/fwz233/txtview) - Transfer the txt file to your zeppos watch.
 - [Anynews](https://github.com/fwz233/Anynews) - Use Fetch api view any news.
+
+### Music
+
+- [ZeppOS-Spotify](https://github.com/juan518munoz/ZeppOS-Spotify/) - Spotify manager for ZeppOS.
