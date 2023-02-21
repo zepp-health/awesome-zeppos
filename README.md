@@ -20,8 +20,10 @@
   - [Lib](#lib)
   - [Tool](#tool)
 - [App](#app)
-  - [Reading](#reading)
+  - [Infomation](#infomation)
   - [Music](#music)
+  - [Game](#game)
+  - [Small Tools](#small-tools)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -62,17 +64,33 @@
 - [MessageBuilder](https://github.com/zepp-health/zeppos-samples/blob/main/application/2.0/todo-list/shared/message.js) - Communication library based on Bluetooth. It sends message between Zepp OS device and Zepp App. And it includes [side service part](https://github.com/zepp-health/zeppos-samples/blob/main/application/2.0/todo-list/shared/message-side.js).
 - [zeppos-device-types-v1](https://github.com/tytydraco/zeppos-device-types-v1) - Third part typings lib.
 - [zapp-framework](https://github.com/j-piasecki/zapp-framework) - Declarative framework for making ZeppOS apps with syntax inspired by Jetpack Compose and some React Native sprinkled in.
+- [numeric-keyboard-amazfit-devices](https://github.com/Rafucho25/numeric-keyboard-amazfit-devices) - A simple numeric keyboard for amazfit band 7, GTS 4, GTS 4 mini and GTS 3.
+- [Authenticator](https://github.com/ZoLArk173/Authenticator) - An 2FA app for Zepp OS.
 
 ### Tool
 - [zepp-ts](https://github.com/tytydraco/zepp-ts) - Build tool that use typescript to develop zeppos-app.
 
 ## App
 
-### Reading
+### Infomation
 
-- [txtview](https://github.com/fwz233/txtview) - Transfer the txt file to your zeppos watch.
 - [Anynews](https://github.com/fwz233/Anynews) - Use Fetch api view any news.
+- [BTC-ZeppOS-for-Watch](https://github.com/fwz233/BTC-ZeppOS-for-Watch) - Check btc price at the moment on a watch running Zepp OS.
+- [zhihu](https://github.com/fwz233/zhihu) - See the hot list of Zhihu on the zeppos device.
 
 ### Music
 
 - [ZeppOS-Spotify](https://github.com/juan518munoz/ZeppOS-Spotify/) - Spotify manager for ZeppOS.
+
+### Game
+
+- [color-switch](https://github.com/sirAvent/color-switch) - Color Switch, an game developed on ZeppOS.
+- [zepp-pong](https://github.com/Berezza98/zepp-pong) - Zepp Pong is a beautiful and interesting game for Zepp OS.
+- [Zepp-CircleWars](https://github.com/Berezza98/Zepp-CircleWars) - A Zepp OS game.
+
+### Small Tools
+
+- [txtview](https://github.com/fwz233/txtview) - Transfer the txt file to your zeppos watch.
+- [Gaokao-Countdown-ZeppOS](https://github.com/lc6464/Gaokao-Countdown-ZeppOS) - Gaokao countdown software for Zepp OS.
+- [hocon-zepp](https://github.com/LeKovr/hocon-zepp) - Zepp OS device application for controling WIZ lamp via hocon service.
+- [zepp_quick_notes](https://github.com/gabrielchristino/zepp_quick_notes) - A mini app for Zepp OS 1.0 for create quick annotations directly on watch with a T9 keyboard.
