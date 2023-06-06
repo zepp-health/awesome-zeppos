@@ -96,3 +96,4 @@
 - [Gaokao-Countdown-ZeppOS](https://github.com/lc6464/Gaokao-Countdown-ZeppOS) - Gaokao countdown software for Zepp OS.
 - [hocon-zepp](https://github.com/LeKovr/hocon-zepp) - Zepp OS device application for controling WIZ lamp via hocon service.
 - [zepp_quick_notes](https://github.com/gabrielchristino/zepp_quick_notes) - A mini app for Zepp OS 1.0 for create quick annotations directly on watch with a T9 keyboard.
+- [ZeppOS-Tasks](https://github.com/melianmiko/ZeppOS-Tasks) - Task list for ZeppOS. In sync with Google Tasks.
