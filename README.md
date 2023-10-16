@@ -68,6 +68,7 @@
 - [Authenticator](https://github.com/ZoLArk173/Authenticator) - An 2FA app for Zepp OS.
 - [zeppos-fx](https://github.com/XiaomaiTX/zeppos-fx) - A library for providing simple animations in ZeppOS.
 - [zeppos-timer](https://github.com/XiaomaiTX/zeppos-timer) - An accurate timer for ZeppOS.
+- [vis-log](https://github.com/silver-zepp/zeppos-visual-logger) - ZeppOS Visual Logger: On-Screen Logs on Your Device.
 
 ### Tool
 - [zepp-ts](https://github.com/tytydraco/zepp-ts) - Build tool that use typescript to develop zeppos-app.
