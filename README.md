@@ -81,6 +81,10 @@
 - [BTC-ZeppOS-for-Watch](https://github.com/fwz233/BTC-ZeppOS-for-Watch) - Check btc price at the moment on a watch running Zepp OS.
 - [zhihu](https://github.com/fwz233/zhihu) - See the hot list of Zhihu on the zeppos device.
 
+### Social Media
+
+- [FediClient](https://github.com/griffi-gh/zepp-fediclient) - Open-source Mastodon client for ZeppOS.
+
 ### Music
 
 - [ZeppOS-Spotify](https://github.com/juan518munoz/ZeppOS-Spotify/) - Spotify manager for ZeppOS.
